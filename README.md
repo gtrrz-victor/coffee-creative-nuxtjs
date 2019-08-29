@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gtrrz-victor/coffee-creative-nuxtjs.svg?branch=develop)](https://travis-ci.org/gtrrz-victor/coffee-creative-nuxtjs)
+
 # coffee-creative-nuxtjs
 
 > ??
