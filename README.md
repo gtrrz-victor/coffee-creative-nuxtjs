@@ -1,10 +1,10 @@
 # coffee-creative-nuxtjs
 
-> My shining Nuxt.js project
+> ??
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
